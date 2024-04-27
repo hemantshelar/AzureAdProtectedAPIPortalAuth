@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAdProtectedAPIPortalAuth", "AzureAdProtectedAPIPortalAuth.csproj", "{FA08CA7B-5184-4974-A630-8106F423DDFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA08CA7B-5184-4974-A630-8106F423DDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA08CA7B-5184-4974-A630-8106F423DDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA08CA7B-5184-4974-A630-8106F423DDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA08CA7B-5184-4974-A630-8106F423DDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE9CD752-FF4F-4713-9A86-382BC1C0B686}
+	EndGlobalSection
+EndGlobal
